@@ -1,0 +1,6 @@
+C:\Users\Danne\Desktop\InfoCom\InfoCom\DataAccess\bin\Debug\InfoCom.mdf
+C:\Users\Danne\Desktop\InfoCom\InfoCom\DataAccess\bin\Debug\InfoCom_log.ldf
+C:\Users\Danne\Desktop\InfoCom\InfoCom\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Danne\Desktop\InfoCom\InfoCom\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Danne\Desktop\InfoCom\InfoCom\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Danne\Desktop\InfoCom\InfoCom\DataAccess\obj\Debug\DataAccess.pdb
