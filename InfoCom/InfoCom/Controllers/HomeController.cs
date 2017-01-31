@@ -8,6 +8,7 @@ namespace InfoCom.Controllers
 {
     public class HomeController : Controller
     {
+        //Test for push
         public ActionResult Index()
         {
             return View();
